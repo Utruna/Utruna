@@ -11,7 +11,7 @@ Data Science Engineer | Diplômé de Polytech Dijon. Je fais le pont entre la Da
 ## 🛡️ TunnelVision — Anti-cheat x-ray pour Minecraft
 
 <!-- Remplace la ligne ci-dessous par une vraie capture/GIF une fois uploadée dans assets/ -->
-<img src="assets/tunnelvision-demo.gif" alt="Démo TunnelVision" width="700"/>
+<img src="assets/tunnelvision_demo.png" alt="Démo TunnelVision" width="700"/>
 
 Système de détection de triche x-ray sur serveurs Minecraft dédiés, basé sur l'analyse des logs de minage CoreProtect. Plugin Java (Bukkit/Spigot) couplé à un pipeline Python (FastAPI, Isolation Forest, rapports 3D interactifs). Architecture multi-tenant (un conteneur Docker isolé par client), en développement vers une API commerciale.
 
@@ -35,7 +35,7 @@ Généralisation du jeu de la vie de Conway en N dimensions (3D et 4D). Moteur d
 ## 🎯 Détection & suivi de cible — Vision par ordinateur (CS2)
 
 <!-- Remplace par une capture/GIF de la détection en action -->
-<img src="assets/target-detection-demo.gif" alt="Démo détection de cible" width="700"/>
+<img src="assets/optronique.gif" alt="Démo détection de cible" width="700"/>
 
 Système expérimental de détection et de suivi de cible pour Counter-Strike 2, basé sur YOLOv10. Projet développé strictement à des fins éducatives pour l'étude de la vision par ordinateur en temps réel.
 
@@ -46,7 +46,7 @@ Système expérimental de détection et de suivi de cible pour Counter-Strike 2,
 ## 💃 DanseAvecLaStare — Plugin Minecraft (danseurs NPC animés)
 
 <!-- Remplace par une capture/GIF du plugin en action -->
-<img src="assets/danseaveclastare-demo.gif" alt="Démo DanseAvecLaStare" width="700"/>
+<img src="assets/danse.gif" alt="Démo DanseAvecLaStare" width="700"/>
 
 Plugin Paper (Java 21) qui anime des NPC danseurs 3D en temps réel via ModelEngine 4. Développé bénévolement pour La Taverne, association loi 1901, pour le festival de musique électronique TomorrowCraft. Playlists d'animations programmables, application dynamique de skins, système de permissions par rôles.
 
