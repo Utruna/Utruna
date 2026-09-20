@@ -17,7 +17,7 @@ Système de détection de triche x-ray sur serveurs Minecraft dédiés, basé su
 
 🔗 [![Site officiel](https://img.shields.io/badge/Site-tunnelvision.fr-1a1a2e?style=for-the-badge)](https://tunnelvision.fr/)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Essayer-4CAF50?style=for-the-badge)](https://tunnelvision.fr/demo.html)
-[![Code source](https://img.shields.io/badge/GitHub-Code%20source-181717?style=for-the-badge&logo=github)](https://github.com/Utruna/Coreprotect-mining-heuristics)
+[![Modrinth](https://img.shields.io/badge/Modrinth-Page%20du%20plugin-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/project/zpP2prtk)
 
 ---
 
@@ -28,6 +28,8 @@ Système de détection de triche x-ray sur serveurs Minecraft dédiés, basé su
 
 Généralisation du jeu de la vie de Conway en N dimensions (3D et 4D). Moteur de simulation en Python (numpy/scipy), rendu prévu en Three.js avec slicing temporel pour visualiser la 4D. *(Projet en cours de développement.)*
 
+🔗 [Code source](https://github.com/Utruna/game-life-in-N-dimensions-)
+
 ---
 
 ## 🎯 Détection & suivi de cible — Vision par ordinateur (CS2)
@@ -37,14 +39,31 @@ Généralisation du jeu de la vie de Conway en N dimensions (3D et 4D). Moteur d
 
 Système expérimental de détection et de suivi de cible pour Counter-Strike 2, basé sur YOLOv10. Projet développé strictement à des fins éducatives pour l'étude de la vision par ordinateur en temps réel.
 
+🔗 [Code source](https://github.com/Utruna/optronique)
+
 ---
 
-## 🎥 Overlay Twitch
+## 💃 DanseAvecLaStare — Plugin Minecraft (danseurs NPC animés)
+
+<!-- Remplace par une capture/GIF du plugin en action -->
+<img src="assets/danseaveclastare-demo.gif" alt="Démo DanseAvecLaStare" width="700"/>
+
+Plugin Paper (Java 21) qui anime des NPC danseurs 3D en temps réel via ModelEngine 4. Développé bénévolement pour La Taverne, association loi 1901, pour le festival de musique électronique TomorrowCraft. Playlists d'animations programmables, application dynamique de skins, système de permissions par rôles.
+
+🔗 [Code source](https://github.com/Utruna/DanseAvecLaStare)
+
+---
+
+## 🎥 Overlay Twitch — Wakfu Combo Overlay
 
 <!-- Remplace par une capture/GIF de l'overlay en stream -->
 <img src="assets/overlay-twitch-demo.gif" alt="Démo Overlay Twitch" width="700"/>
 
+[![Downloads](https://img.shields.io/github/downloads/Utruna/wakfu-combo-overlay/total?style=for-the-badge&label=T%C3%A9l%C3%A9chargements)](https://github.com/Utruna/wakfu-combo-overlay)
+
 Overlay Twitch affichant les sorts lancés sous forme de liste défilante, configurable par l'utilisateur final (dimensions, sens de défilement) et associant chaque sort à une classe.
+
+🔗 [Code source](https://github.com/Utruna/wakfu-combo-overlay)
 
 ---
 
