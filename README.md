@@ -39,7 +39,7 @@ Plugin Paper (Java 21) qui anime des NPC danseurs 3D en temps réel via ModelEng
 
 <!-- Remplace par une capture/GIF du rendu Three.js une fois disponible -->
 <p align="center">
-  <img src="assets/jeudelavie.gif" alt="Démo Game of Life ND" width="700"/>
+  <img src="assets/JDLV.gif" alt="Démo Game of Life ND" width="700"/>
 </p>
 
 Généralisation du jeu de la vie de Conway en N dimensions (3D et 4D). Moteur de simulation en Python (numpy/scipy), rendu prévu en Three.js avec slicing temporel pour visualiser la 4D. *(Projet en cours de développement.)*
